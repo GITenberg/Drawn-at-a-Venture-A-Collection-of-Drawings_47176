@@ -1,4 +1,8 @@
 _repo: Drawn-at-a-Venture-A-Collection-of-Drawings_47176
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47176-h/images/cover.jpg
 creator:
   author:
     agent_name: Fougasse
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44171
     wikipedia: http://en.wikipedia.org/wiki/Fougasse_(cartoonist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47176#Drawn-at-a-Venture-A-Collection-of-Drawings
 gutenberg_issued: '2014-10-23'
 gutenberg_type: Text
 identifiers:
